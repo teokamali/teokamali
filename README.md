@@ -35,7 +35,8 @@
   
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
   <p align="left">
-   <code> <img height="50" width='100' src="./assets/Git-Logo-2Color.svg"> </code>
+  <div style="display:flex ; flex-wrap:wrap; gap:10px;">
+    <code> <img height="50" width='100' src="./assets/Git-Logo-2Color.svg"> </code>
     <code> <img height="50" width='100' src="./assets/mongodb-ar21.svg"> </code>
     <code> <img height="50" width='100' src="./assets/Nextjs-logo.svg"> </code>
     <code> <img height="50" width='100' src="./assets/CSS.3.svg"> </code>
@@ -45,6 +46,7 @@
     <code> <img height="50" width='100' src="./assets/reactjs-ar21.svg"> </code>
     <code> <img height="50" width='100' src="./assets/Sass_Logo_Color.svg"> </code>
     <code> <img height="50" width='100' src="./assets/Tailwind_CSS_logo.svg"> </code>
+  </div>
     <hr>
     <p align="center">
    <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
