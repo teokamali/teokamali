@@ -35,7 +35,7 @@
   
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
   <p align="left">
-  <div style="display:flex ; flex-wrap:wrap; gap:10px;">
+  <div style="display:flex ; flex-wrap:wrap; gap:10px; background-color:#e5e5e5;">
  <img height="50" width='120' src="./assets/Git-Logo-2Color.svg"> 
  <img height="50" width='120' src="./assets/mongodb-ar21.svg"> 
  <img height="50" width='120' src="./assets/Nextjs-logo.svg"> 
