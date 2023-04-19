@@ -22,7 +22,7 @@
   </p>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
-  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+  <!-- <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" /> -->
   
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
   
@@ -37,27 +37,23 @@
   <p align="left">
     <code> <img height="50" src="./assets/Git-Logo-2Color.svg"> </code>
     <code> <img height="50" src="./assets/mongodb-ar21.svg"> </code>
-    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-    <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
-    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-    <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-    <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
+    <code> <img height="50" src="./assets/Nextjs-logo.svg"> </code>
+    <code> <img height="50" src="./assets/CSS.3.svg"> </code>
+    <code> <img height="50" src="./assets/expressjs-ar21.svg"> </code>
+    <code> <img height="50" src="./assets/Javascript_badge.svg"> </code>
+    <code> <img height="50" src="./assets/Node.js_logo_2015.svg"> </code>
+    <code> <img height="50" src="./assets/reactjs-ar21.svg"> </code>
+    <code> <img height="50" src="./assets/Sass_Logo_Color.svg"> </code>
+    <code> <img height="50" src="./assets/Tailwind_CSS_logo.svg"> </code>
     <hr>
     <p align="center">
    <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MamadKamalipour&show_icons=true&locale=en&layout=compact" alt="MamadKamalipour" /></p>
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MamadKamalipour&show_icons=true&locale=en" alt="MamadKamalipour" width="410" /></p>
   
   <hr>
-  
-  Here are some [🦜 parrots](https://cultofthepartyparrot.com):
-  
+
   <div>
       <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
       <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
