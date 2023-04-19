@@ -36,16 +36,16 @@
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
   <p align="left">
   <div style="display:flex ; flex-wrap:wrap; gap:10px;">
-    <code> <img height="50" width='100' src="./assets/Git-Logo-2Color.svg"> </code>
-    <code> <img height="50" width='100' src="./assets/mongodb-ar21.svg"> </code>
-    <code> <img height="50" width='100' src="./assets/Nextjs-logo.svg"> </code>
-    <code> <img height="50" width='100' src="./assets/CSS.3.svg"> </code>
-    <code> <img height="50" width='100' src="./assets/expressjs-ar21.svg"> </code>
-    <code> <img height="50" width='100' src="./assets/Javascript_badge.svg"> </code>
-    <code> <img height="50" width='100' src="./assets/Node.js_logo_2015.svg"> </code>
-    <code> <img height="50" width='100' src="./assets/reactjs-ar21.svg"> </code>
-    <code> <img height="50" width='100' src="./assets/Sass_Logo_Color.svg"> </code>
-    <code> <img height="50" width='100' src="./assets/Tailwind_CSS_logo.svg"> </code>
+    <code> <img src="./assets/Git-Logo-2Color.svg"> </code>
+    <code> <img src="./assets/mongodb-ar21.svg"> </code>
+    <code> <img src="./assets/Nextjs-logo.svg"> </code>
+    <code> <img src="./assets/CSS.3.svg"> </code>
+    <code> <img src="./assets/expressjs-ar21.svg"> </code>
+    <code> <img src="./assets/Javascript_badge.svg"> </code>
+    <code> <img src="./assets/Node.js_logo_2015.svg"> </code>
+    <code> <img src="./assets/reactjs-ar21.svg"> </code>
+    <code> <img src="./assets/Sass_Logo_Color.svg"> </code>
+    <code> <img src="./assets/Tailwind_CSS_logo.svg"> </code>
   </div>
     <hr>
     <p align="center">
