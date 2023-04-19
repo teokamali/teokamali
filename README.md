@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+    <video loop >
+      <source src="./assets/me.mp4" />
+    </video>
   </p>
   <hr>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohammad Kamalipour</h1>
@@ -35,16 +37,18 @@
   
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
   <p align="left">
-    <code> <img height="50" src="./assets/Git-Logo-2Color.svg"> </code>
-    <code> <img height="50" src="./assets/mongodb-ar21.svg"> </code>
-    <code> <img height="50" src="./assets/Nextjs-logo.svg"> </code>
-    <code> <img height="50" src="./assets/CSS.3.svg"> </code>
-    <code> <img height="50" src="./assets/expressjs-ar21.svg"> </code>
-    <code> <img height="50" src="./assets/Javascript_badge.svg"> </code>
-    <code> <img height="50" src="./assets/Node.js_logo_2015.svg"> </code>
-    <code> <img height="50" src="./assets/reactjs-ar21.svg"> </code>
-    <code> <img height="50" src="./assets/Sass_Logo_Color.svg"> </code>
-    <code> <img height="50" src="./assets/Tailwind_CSS_logo.svg"> </code>
+  <div style="display:flex ; flex-wrap:wrap; gap:10px;">
+    <code> <img height="50" width='120' src="./assets/Git-Logo-2Color.svg"> </code>
+    <code> <img height="50" width='120' src="./assets/mongodb-ar21.svg"> </code>
+    <code> <img height="50" width='120' src="./assets/Nextjs-logo.svg"> </code>
+    <code> <img height="50" width='120' src="./assets/CSS.3.svg"> </code>
+    <code> <img height="50" width='120' src="./assets/expressjs-ar21.svg"> </code>
+    <code> <img height="50" width='120' src="./assets/Javascript_badge.svg"> </code>
+    <code> <img height="50" width='120' src="./assets/Node.js_logo_2015.svg"> </code>
+    <code> <img height="50" width='120' src="./assets/reactjs-ar21.svg"> </code>
+    <code> <img height="50" width='120' src="./assets/Sass_Logo_Color.svg"> </code>
+    <code> <img height="50" width='120' src="./assets/Tailwind_CSS_logo.svg"> </code>
+  </div>
     <hr>
     <p align="center">
    <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
